@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-**[🌐 Access the Application](https://student-performance-tracker.streamlit.app/)**
+**[🌐 Access the Application](https://student-performance-tracker-application.streamlit.app/)**
 
 ## 📋 Table of Contents
 
@@ -261,16 +261,19 @@ def calculate_grade(percentage: float) -> str:
 ## 📸 Screenshots
 
 ### **Dashboard Overview**
-> *Main dashboard showing system statistics, quick actions, and recent activity*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6896945d-9d6d-4851-87b9-6d414d8bdf12" />
 
 ### **Student Management**
-> *Comprehensive student CRUD interface with search, filtering, and export capabilities*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3195144f-a1c0-4513-9618-88e600023dc8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8445f026-a758-4fba-a6c1-c4d224179af2" />
 
 ### **Class Analytics**
-> *Performance analytics with metrics, charts, and detailed student breakdowns*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db6ce9e3-1cae-47d4-9db8-689a11d04191" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bba74870-aebc-4fea-b137-d10ec56647e3" />
 
 ### **Visual Reports**
-> *Interactive dashboards with real-time data visualization and trend analysis*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82884151-a05c-4a4f-9d3f-cf3f5bde0d8d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7eb677ce-8012-400d-88bd-cd8b74381585" />
 
 ## 🤝 Contributing
 
